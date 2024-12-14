@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Banner Ad</title>
+    <style>
+        .banner {
+            width: 300px;
+            height: 250px;
+            border: 1px solid #ccc;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+        .banner img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <a href="https://amzn.to/41zjTEv" target="_blank">
+            <img src="https://raw.githubusercontent.com/Yvonne-Rochester/my-banner-ad/main/InstaPot.png" alt="product">
+        </a>
+    </div>
+</body>
+</html>
